@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileEncryptorTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be4fbab75fd127e69f1003bdeaa11f023c8b592b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileEncryptorTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileEncryptorTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
